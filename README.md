@@ -3,7 +3,7 @@
 
 The function of this program is to find the frequency of each number that has been drawn in the Texas lotto game
 
- -Calculates and displays the frequency of drawn numbers in Texas Lotto in each year
+ 	  -Calculates and displays the frequency of drawn numbers in Texas Lotto in each year
  
 	 - Calculates and displays the overall frequency of each number that has been drawn since the lotto started
 	 
