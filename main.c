@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define NON_YEAR_NUMBER  6
-#define MAXIMUM 56
+#define MAXIMUM 54
 
 void printArr(int *a, int len);
 void sortmyArray(int *a);
