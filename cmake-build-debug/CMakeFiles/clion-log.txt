@@ -1,4 +1,4 @@
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery"
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery"
 -- The C compiler identification is GNU 7.3.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug
+-- Build files have been written to: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug

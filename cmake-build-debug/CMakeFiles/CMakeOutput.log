@@ -10,33 +10,33 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f579d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f579d.dir/build.make CMakeFiles/cmTC_f579d.dir/build
-make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f579d.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_f579d.dir/testCCompiler.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_f579d
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f579d.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_f579d.dir/testCCompiler.c.o  -o cmTC_f579d 
-make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6e1e2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6e1e2.dir/build.make CMakeFiles/cmTC_6e1e2.dir/build
+make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6e1e2.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_6e1e2.dir/testCCompiler.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_6e1e2
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6e1e2.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_6e1e2.dir/testCCompiler.c.o  -o cmTC_6e1e2 
+make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f645e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f645e.dir/build.make CMakeFiles/cmTC_f645e.dir/build
-make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o   -c /home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_f645e
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f645e.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o  -o cmTC_f645e 
+Run Build Command:"/usr/bin/make" "cmTC_005b6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_005b6.dir/build.make CMakeFiles/cmTC_005b6.dir/build
+make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o   -c /home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_005b6
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_005b6.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o  -o cmTC_005b6 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -48,24 +48,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f645e' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccOP3R5h.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f645e /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f645e' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_005b6' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccfsY2xv.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_005b6 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_005b6' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_f645e/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_f645e.dir/build.make CMakeFiles/cmTC_f645e.dir/build]
-  ignore line: [make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o   -c /home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_f645e]
-  ignore line: [/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f645e.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o  -o cmTC_f645e ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_005b6/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_005b6.dir/build.make CMakeFiles/cmTC_005b6.dir/build]
+  ignore line: [make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o   -c /home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_005b6]
+  ignore line: [/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_005b6.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o  -o cmTC_005b6 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -77,13 +77,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f645e' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccOP3R5h.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_f645e /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_005b6' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccfsY2xv.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_005b6 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccOP3R5h.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccfsY2xv.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -102,7 +102,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_f645e] ==> ignore
+    arg [cmTC_005b6] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -114,7 +114,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_f645e.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_005b6.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -144,17 +144,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_57d0f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_57d0f.dir/build.make CMakeFiles/cmTC_57d0f.dir/build
-make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_57d0f.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_57d0f.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_57d0f
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_57d0f.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_57d0f.dir/feature_tests.c.o  -o cmTC_57d0f 
-make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_593b1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_593b1.dir/build.make CMakeFiles/cmTC_593b1.dir/build
+make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_593b1.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_593b1.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_593b1
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_593b1.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_593b1.dir/feature_tests.c.o  -o cmTC_593b1 
+make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -164,17 +164,17 @@ make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Program
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_247af/fast"
-/usr/bin/make -f CMakeFiles/cmTC_247af.dir/build.make CMakeFiles/cmTC_247af.dir/build
-make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_247af.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_247af.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_247af
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_247af.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_247af.dir/feature_tests.c.o  -o cmTC_247af 
-make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_e3fda/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e3fda.dir/build.make CMakeFiles/cmTC_e3fda.dir/build
+make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e3fda.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_e3fda.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_e3fda
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e3fda.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_e3fda.dir/feature_tests.c.o  -o cmTC_e3fda 
+make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -184,17 +184,17 @@ make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Program
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dfbbb/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dfbbb.dir/build.make CMakeFiles/cmTC_dfbbb.dir/build
-make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_dfbbb.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_dfbbb.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_dfbbb
-/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dfbbb.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_dfbbb.dir/feature_tests.c.o  -o cmTC_dfbbb 
-make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_01d6f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_01d6f.dir/build.make CMakeFiles/cmTC_01d6f.dir/build
+make[1]: Entering directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_01d6f.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_01d6f.dir/feature_tests.c.o   -c "/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_01d6f
+/home/alex/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01d6f.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_01d6f.dir/feature_tests.c.o  -o cmTC_01d6f 
+make[1]: Leaving directory '/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes

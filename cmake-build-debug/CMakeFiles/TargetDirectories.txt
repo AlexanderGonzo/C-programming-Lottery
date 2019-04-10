@@ -1,3 +1,3 @@
-/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/Lottery.dir
-/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/Lottery.dir
+/home/alex/Documents/School/Spring 2019/Unix Programming/assigntments/Lottery/C programming Lottery/cmake-build-debug/CMakeFiles/edit_cache.dir
